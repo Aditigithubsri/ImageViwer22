@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     margin-top: 20px;
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 5px;
   }
   
@@ -18,6 +18,6 @@
   
   .thumbnail.active, .thumbnail:hover {
     opacity: 1;
-    border: 2px solid #333;
+    border: 2px solid black;
   }
   
