@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 style={{textAlign:"center"}}>Images</h1>
+      <h1 style={{textAlign:"center", fontStyle:"italic", fontSize:"40px"}}>Visual Voyage</h1>
       <ImageViewer images={images} />
     </div>
   );
